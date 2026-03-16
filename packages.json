@@ -1,0 +1,72 @@
+[
+  {
+    "package": "PhysioExperiment",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "."
+  },
+  {
+    "package": "PhysioCore",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioCore"
+  },
+  {
+    "package": "PhysioIO",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioIO"
+  },
+  {
+    "package": "PhysioPreprocess",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioPreprocess"
+  },
+  {
+    "package": "PhysioAnalysis",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioAnalysis"
+  },
+  {
+    "package": "PhysioEEG",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioEEG"
+  },
+  {
+    "package": "PhysioEMG",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioEMG"
+  },
+  {
+    "package": "PhysioECG",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioECG"
+  },
+  {
+    "package": "PhysioEDA",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioEDA"
+  },
+  {
+    "package": "PhysioCrossModal",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioCrossModal"
+  },
+  {
+    "package": "PhysioMoCap",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioMoCap"
+  },
+  {
+    "package": "PhysioOpenSim",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioOpenSim"
+  },
+  {
+    "package": "PhysioMSKNet",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioMSKNet"
+  },
+  {
+    "package": "PhysioAnnotationHub",
+    "url": "https://github.com/matsui-lab/PhysioExperiment",
+    "subdir": "physio-ecosystem/PhysioAnnotationHub"
+  }
+]
