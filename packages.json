@@ -1,72 +1,58 @@
 [
   {
     "package": "PhysioExperiment",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "."
+    "url": "https://github.com/x-biosignal/PhysioExperiment"
   },
   {
     "package": "PhysioCore",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioCore"
+    "url": "https://github.com/x-biosignal/PhysioCore"
   },
   {
     "package": "PhysioIO",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioIO"
+    "url": "https://github.com/x-biosignal/PhysioIO"
   },
   {
     "package": "PhysioPreprocess",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioPreprocess"
+    "url": "https://github.com/x-biosignal/PhysioPreprocess"
   },
   {
     "package": "PhysioAnalysis",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioAnalysis"
+    "url": "https://github.com/x-biosignal/PhysioAnalysis"
   },
   {
     "package": "PhysioEEG",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioEEG"
+    "url": "https://github.com/x-biosignal/PhysioEEG"
   },
   {
     "package": "PhysioEMG",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioEMG"
+    "url": "https://github.com/x-biosignal/PhysioEMG"
   },
   {
     "package": "PhysioECG",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioECG"
+    "url": "https://github.com/x-biosignal/PhysioECG"
   },
   {
     "package": "PhysioEDA",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioEDA"
+    "url": "https://github.com/x-biosignal/PhysioEDA"
   },
   {
     "package": "PhysioCrossModal",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioCrossModal"
+    "url": "https://github.com/x-biosignal/PhysioCrossModal"
   },
   {
     "package": "PhysioMoCap",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioMoCap"
+    "url": "https://github.com/x-biosignal/PhysioMoCap"
   },
   {
     "package": "PhysioOpenSim",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioOpenSim"
+    "url": "https://github.com/x-biosignal/PhysioOpenSim"
   },
   {
     "package": "PhysioMSKNet",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioMSKNet"
+    "url": "https://github.com/x-biosignal/PhysioMSKNet"
   },
   {
     "package": "PhysioAnnotationHub",
-    "url": "https://github.com/matsui-lab/PhysioExperiment",
-    "subdir": "physio-ecosystem/PhysioAnnotationHub"
+    "url": "https://github.com/x-biosignal/PhysioAnnotationHub"
   }
 ]
