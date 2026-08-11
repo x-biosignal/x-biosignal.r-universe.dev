@@ -26,5 +26,6 @@
   { "package": "PhysioDevices",       "url": "https://github.com/x-biosignal/PhysioDevices" },
   { "package": "PhysioClinical",      "url": "https://github.com/x-biosignal/PhysioClinical" },
   { "package": "PhysioClinStats",     "url": "https://github.com/x-biosignal/PhysioClinStats" },
-  { "package": "PhysioReport",        "url": "https://github.com/x-biosignal/PhysioReport" }
+  { "package": "PhysioReport",        "url": "https://github.com/x-biosignal/PhysioReport" },
+  { "package": "PhysioLake",          "url": "https://github.com/x-biosignal/PhysioLake" }
 ]
