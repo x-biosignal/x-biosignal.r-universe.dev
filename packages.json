@@ -30,5 +30,7 @@
   { "package": "PhysioLake",          "url": "https://github.com/x-biosignal/PhysioLake" },
   { "package": "PhysioRecipes",       "url": "https://github.com/x-biosignal/PhysioRecipes" },
   { "package": "PhysioNetPhysiology", "url": "https://github.com/x-biosignal/PhysioNetPhysiology" },
-  { "package": "PoseFixeR", "url": "https://github.com/x-biosignal/PoseFixeR" }
+  { "package": "PoseFixeR", "url": "https://github.com/x-biosignal/PoseFixeR" },
+  { "package": "PhysioPipe",   "url": "https://github.com/x-biosignal/PhysioPipe" },
+  { "package": "synergyMixR",  "url": "https://github.com/x-biosignal/synergyMixR" }
 ]
