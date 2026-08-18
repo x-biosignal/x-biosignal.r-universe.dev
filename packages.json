@@ -34,5 +34,6 @@
   { "package": "PhysioPipe",   "url": "https://github.com/x-biosignal/PhysioPipe" },
   { "package": "synergyMixR",  "url": "https://github.com/x-biosignal/synergyMixR" },
   { "package": "PhysioAppKit",   "url": "https://github.com/x-biosignal/PhysioAppKit" },
-  { "package": "PhysioRehab",   "url": "https://github.com/x-biosignal/PhysioRehab" }
+  { "package": "PhysioRehab",   "url": "https://github.com/x-biosignal/PhysioRehab" },
+  { "package": "PhysioTwin",    "url": "https://github.com/x-biosignal/PhysioTwin" }
 ]
