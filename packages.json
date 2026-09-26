@@ -1,6 +1,7 @@
 [
   { "package": "PhysioExperiment",   "url": "https://github.com/x-biosignal/PhysioExperiment" },
   { "package": "PhysioCore",          "url": "https://github.com/x-biosignal/PhysioCore" },
+  { "package": "PhysioEcosystem",    "url": "https://github.com/x-biosignal/PhysioEcosystem" },
   { "package": "PhysioCompliance",    "url": "https://github.com/x-biosignal/PhysioCompliance" },
   { "package": "PhysioIO",            "url": "https://github.com/x-biosignal/PhysioIO" },
   { "package": "PhysioPreprocess",    "url": "https://github.com/x-biosignal/PhysioPreprocess" },
